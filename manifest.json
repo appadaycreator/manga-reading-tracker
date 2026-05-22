@@ -1,0 +1,8 @@
+{
+  "name": "Manga Reading Tracker",
+  "short_name": "manga-readin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
