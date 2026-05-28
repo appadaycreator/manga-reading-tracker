@@ -3,7 +3,7 @@
   "short_name": "manga-readin",
   "start_url": "/manga-reading-tracker/",
   "display": "standalone",
-  "background_color": "#6366f1",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "scope": "/manga-reading-tracker/"
 }
